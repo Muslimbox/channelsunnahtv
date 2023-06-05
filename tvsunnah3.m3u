@@ -34,7 +34,7 @@ https://h1.intechmedia.net/intech/ch4.m3u8
 https://h1.intechmedia.net/intech/ch5.m3u8
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097834/tv%20sunnah/aanh8ls3pqjfgchfj3f9.png" group-title="TV Sunnah",Al Iman TV 
-http://tv.aliman.id:1935/aliman/HD/playlist.m3u8
+https://www.youtube.com/@AlimanTV
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/dsbsgt8mv/image/upload/v1685779558/9_o7w9c3.png" group-title="Live Youtube",Al Iman TV Youtube 
 https://youtu.be/O-cobKU02bI
@@ -58,7 +58,7 @@ https://h1.intechmedia.net/intech/ch6.m3u8
 https://youtu.be/x1-PspMN6DI
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/dsbsgt8mv/image/upload/v1685778810/6_q7t5qv.png" group-title="Live Youtube",Syafiq Riza Basalamah Official
-https://www.youtube.com/@SyafiqRizaBasalamahOfficial/live
+https://youtu.be/IDOn6KHxTrc
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097840/tv%20sunnah/g6qistwh1jcdhqsss4ol.png" group-title="Live Youtube",Ufa 24 Live
 https://youtu.be/IDOn6KHxTrc
