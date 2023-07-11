@@ -55,28 +55,31 @@ https://streaming.radiosalamjambi.com/izzahtv.m3u8
 https://h1.intechmedia.net/intech/ch6.m3u8
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1685615358/tv%20sunnah/eu3k2pwobpltulhliv95.png" group-title="Live Youtube",Tarbiyah Sunnah 
-https://youtu.be/xx5rh2qji7c
+https://www.youtube.com/@TarbiyahSunnahChannel/live
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/dsbsgt8mv/image/upload/v1685778810/6_q7t5qv.png" group-title="Live Youtube",Syafiq Riza Basalamah Official
 https://youtu.be/IDOn6KHxTrc
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097840/tv%20sunnah/g6qistwh1jcdhqsss4ol.png" group-title="Live Youtube",Ufa 24 Live
-https://youtu.be/j6FczxtloWM
+https://www.youtube.com/@ufalive24/live
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1685615358/tv%20sunnah/yuofussjukz1uw3hlowg.png" group-title="Live Youtube",KHB Official
-https://youtu.be/lADw4_YIPAs
+https://www.youtube.com/@khalidbasalamah/live
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/dsbsgt8mv/image/upload/v1685778810/3_ujpm4f.png" group-title="Live Youtube",Gazwah TV
-https://youtu.be/gmbpqqwts8Y
+https://www.youtube.com/@GazwahTVOfficial/live
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1685615358/tv%20sunnah/hbnvc8r9m0ewzaipzyhc.png" group-title="Live Youtube",Fatwa TV
-https://youtu.be/iFX2X2jmgVI
+https://www.youtube.com/@FatwaTVOfficial/live
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1685615358/tv%20sunnah/pq1k5lnbla1vnjci4s1b.png" group-title="Live Youtube",Rifqan TV
-https://youtu.be/Qe1lsLjUOCY
+https://www.youtube.com/@RifqanTV/live
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/dsbsgt8mv/image/upload/v1685778809/2_pnzwyx.png" group-title="Live Youtube",Sunnah Jalan Pasti
-https://youtu.be/oH3b7wQSuUo
+https://www.youtube.com/@SunnahJalanPasti/live
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/eWSREpWUI9nBAeT10XwZDZ5BUbMFDjrRyKuhHocaK3SdocPAiKMmQcSp2eyy2jSZdmlCiqeVHA=s176-c-k-c0x00ffffff-no-rj" group-title="Live Youtube",ANB Channel
+https://www.youtube.com/@amminurbaits/live
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1685658474/tv%20sunnah/agx8zdkdy2kbanjypbii.png" group-title="Live Youtube",ZAD TV
-https://youtu.be/p_3xmqYsR2c
+https://www.youtube.com/@ZadTVchannel/live
